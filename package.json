@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FACN4/SGC.git"
+    "url": "https://week8-sgc.herokuapp.com/"
   },
   "author": "",
   "license": "ISC",
